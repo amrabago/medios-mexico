@@ -105,6 +105,30 @@
   },
   {
     "id": 14,
+    "nombre": "El Heraldo de México",
+    "tipo": "Periódico nacional",
+    "url": "https://heraldodemexico.com.mx",
+    "region": "Nacional",
+    "formato": "Digital / Impreso"
+  },
+  {
+    "id": 15,
+    "nombre": "La Silla Rota",
+    "tipo": "Portal de noticias y análisis político",
+    "url": "https://lasillarota.com",
+    "region": "Nacional",
+    "formato": "Digital"
+  },
+  {
+    "id": 16,
+    "nombre": "Brújula News",
+    "tipo": "Portal de noticias digital",
+    "url": "https://www.brujula.news",
+    "region": "Nacional",
+    "formato": "Digital"
+  },
+  {
+    "id": 17,
     "nombre": "Televisa / Noticieros Televisa",
     "tipo": "Televisora nacional",
     "url": "https://noticieros.televisa.com",
@@ -112,7 +136,7 @@
     "formato": "Televisión / Digital"
   },
   {
-    "id": 15,
+    "id": 18,
     "nombre": "TV Azteca / ADN40",
     "tipo": "Televisora nacional",
     "url": "https://www.adn40.mx",
@@ -120,7 +144,7 @@
     "formato": "Televisión / Digital"
   },
   {
-    "id": 16,
+    "id": 19,
     "nombre": "Imagen Televisión",
     "tipo": "Televisora nacional",
     "url": "https://www.imagentv.com",
@@ -128,7 +152,7 @@
     "formato": "Televisión / Digital"
   },
   {
-    "id": 17,
+    "id": 20,
     "nombre": "W Radio México",
     "tipo": "Radio nacional",
     "url": "https://wradio.com.mx",
@@ -136,7 +160,7 @@
     "formato": "Radio / Digital"
   },
   {
-    "id": 18,
+    "id": 21,
     "nombre": "MVS Noticias",
     "tipo": "Radio y portal de noticias",
     "url": "https://mvsnoticias.com",
@@ -144,7 +168,7 @@
     "formato": "Radio / Digital"
   },
   {
-    "id": 19,
+    "id": 22,
     "nombre": "El Vigía",
     "tipo": "Periódico regional Baja California",
     "url": "https://issuu.com/editorialelvigia",
@@ -153,7 +177,7 @@
     "notas": "Publicaciones en Issuu: https://issuu.com/editorialelvigia"
   },
   {
-    "id": 20,
+    "id": 23,
     "nombre": "La Estampida Digital",
     "tipo": "Portal de noticias digital Baja California",
     "url": "https://laestampidadelosbufalos.com.mx/la-estampida-digital",
@@ -161,7 +185,7 @@
     "formato": "Digital"
   },
   {
-    "id": 21,
+    "id": 24,
     "nombre": "Frontera",
     "tipo": "Periódico regional Baja California",
     "url": "https://www.frontera.info",
@@ -169,7 +193,7 @@
     "formato": "Digital / Impreso"
   },
   {
-    "id": 22,
+    "id": 25,
     "nombre": "ZETA Semanario",
     "tipo": "Semanario de investigación Baja California",
     "url": "https://zetatijuana.com",
@@ -177,7 +201,7 @@
     "formato": "Digital / Impreso"
   },
   {
-    "id": 23,
+    "id": 26,
     "nombre": "El Mexicano",
     "tipo": "Periódico regional Baja California",
     "url": "https://www.el-mexicano.com.mx",
@@ -185,15 +209,15 @@
     "formato": "Digital / Impreso"
   },
   {
-    "id": 24,
-    "nombre": "Diario de Yucatán",
-    "tipo": "Periódico regional Sureste",
-    "url": "https://www.yucatan.com.mx",
-    "region": "Sureste",
-    "formato": "Digital / Impreso"
+    "id": 27,
+    "nombre": "Ensenada.net",
+    "tipo": "Portal de noticias local Ensenada",
+    "url": "https://ensenada.net/noticias/",
+    "region": "Baja California",
+    "formato": "Digital"
   },
   {
-    "id": 25,
+    "id": 28,
     "nombre": "El Norte",
     "tipo": "Periódico regional Noreste",
     "url": "https://www.elnorte.com",
