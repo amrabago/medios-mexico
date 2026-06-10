@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "nombre": "El Universal",
+    "tipo": "Periódico nacional",
+    "url": "https://www.eluniversal.com.mx",
+    "region": "Nacional",
+    "formato": "Digital / Impreso"
+  },
+  {
+    "id": 2,
+    "nombre": "Reforma",
+    "tipo": "Periódico nacional",
+    "url": "https://www.reforma.com",
+    "region": "Nacional",
+    "formato": "Digital / Impreso"
+  },
+  {
+    "id": 3,
+    "nombre": "La Jornada",
+    "tipo": "Periódico nacional",
+    "url": "https://www.jornada.com.mx",
+    "region": "Nacional",
+    "formato": "Digital / Impreso"
+  },
+  {
+    "id": 4,
+    "nombre": "Milenio",
+    "tipo": "Periódico / Portal nacional",
+    "url": "https://www.milenio.com",
+    "region": "Nacional",
+    "formato": "Digital / Impreso"
+  },
+  {
+    "id": 5,
+    "nombre": "El Financiero",
+    "tipo": "Periódico especializado en economía",
+    "url": "https://www.elfinanciero.com.mx",
+    "region": "Nacional",
+    "formato": "Digital / Impreso"
+  },
+  {
+    "id": 6,
+    "nombre": "Excélsior",
+    "tipo": "Periódico nacional",
+    "url": "https://www.excelsior.com.mx",
+    "region": "Nacional",
+    "formato": "Digital / Impreso"
+  },
+  {
+    "id": 7,
+    "nombre": "El Economista",
+    "tipo": "Periódico especializado en economía",
+    "url": "https://www.eleconomista.com.mx",
+    "region": "Nacional",
+    "formato": "Digital / Impreso"
+  },
+  {
+    "id": 8,
+    "nombre": "Proceso",
+    "tipo": "Revista de análisis político",
+    "url": "https://www.proceso.com.mx",
+    "region": "Nacional",
+    "formato": "Digital / Impreso"
+  },
+  {
+    "id": 9,
+    "nombre": "Animal Político",
+    "tipo": "Portal de periodismo de investigación",
+    "url": "https://animalpolitico.com",
+    "region": "Nacional",
+    "formato": "Digital"
+  },
+  {
+    "id": 10,
+    "nombre": "Expansión",
+    "tipo": "Revista de negocios",
+    "url": "https://expansion.mx",
+    "region": "Nacional",
+    "formato": "Digital / Impreso"
+  },
+  {
+    "id": 11,
+    "nombre": "Sin Embargo",
+    "tipo": "Portal de noticias",
+    "url": "https://www.sinembargo.mx",
+    "region": "Nacional",
+    "formato": "Digital"
+  },
+  {
+    "id": 12,
+    "nombre": "Aristegui Noticias",
+    "tipo": "Portal de periodismo independiente",
+    "url": "https://aristeguinoticias.com",
+    "region": "Nacional",
+    "formato": "Digital"
+  },
+  {
+    "id": 13,
+    "nombre": "Forbes México",
+    "tipo": "Revista de negocios y finanzas",
+    "url": "https://www.forbes.com.mx",
+    "region": "Nacional",
+    "formato": "Digital / Impreso"
+  },
+  {
+    "id": 14,
+    "nombre": "Televisa / Noticieros Televisa",
+    "tipo": "Televisora nacional",
+    "url": "https://noticieros.televisa.com",
+    "region": "Nacional",
+    "formato": "Televisión / Digital"
+  },
+  {
+    "id": 15,
+    "nombre": "TV Azteca / ADN40",
+    "tipo": "Televisora nacional",
+    "url": "https://www.adn40.mx",
+    "region": "Nacional",
+    "formato": "Televisión / Digital"
+  },
+  {
+    "id": 16,
+    "nombre": "Imagen Televisión",
+    "tipo": "Televisora nacional",
+    "url": "https://www.imagentv.com",
+    "region": "Nacional",
+    "formato": "Televisión / Digital"
+  },
+  {
+    "id": 17,
+    "nombre": "W Radio México",
+    "tipo": "Radio nacional",
+    "url": "https://wradio.com.mx",
+    "region": "Nacional",
+    "formato": "Radio / Digital"
+  },
+  {
+    "id": 18,
+    "nombre": "MVS Noticias",
+    "tipo": "Radio y portal de noticias",
+    "url": "https://mvsnoticias.com",
+    "region": "Nacional",
+    "formato": "Radio / Digital"
+  },
+  {
+    "id": 19,
+    "nombre": "El Vigía",
+    "tipo": "Periódico regional Baja California",
+    "url": "https://issuu.com/editorialelvigia",
+    "region": "Baja California",
+    "formato": "Digital / Impreso",
+    "notas": "Publicaciones en Issuu: https://issuu.com/editorialelvigia"
+  },
+  {
+    "id": 20,
+    "nombre": "La Estampida Digital",
+    "tipo": "Portal de noticias digital Baja California",
+    "url": "https://laestampidadelosbufalos.com.mx/la-estampida-digital",
+    "region": "Baja California",
+    "formato": "Digital"
+  },
+  {
+    "id": 21,
+    "nombre": "Frontera",
+    "tipo": "Periódico regional Baja California",
+    "url": "https://www.frontera.info",
+    "region": "Baja California",
+    "formato": "Digital / Impreso"
+  },
+  {
+    "id": 22,
+    "nombre": "ZETA Semanario",
+    "tipo": "Semanario de investigación Baja California",
+    "url": "https://zetatijuana.com",
+    "region": "Baja California",
+    "formato": "Digital / Impreso"
+  },
+  {
+    "id": 23,
+    "nombre": "El Mexicano",
+    "tipo": "Periódico regional Baja California",
+    "url": "https://www.el-mexicano.com.mx",
+    "region": "Baja California",
+    "formato": "Digital / Impreso"
+  },
+  {
+    "id": 24,
+    "nombre": "Diario de Yucatán",
+    "tipo": "Periódico regional Sureste",
+    "url": "https://www.yucatan.com.mx",
+    "region": "Sureste",
+    "formato": "Digital / Impreso"
+  },
+  {
+    "id": 25,
+    "nombre": "El Norte",
+    "tipo": "Periódico regional Noreste",
+    "url": "https://www.elnorte.com",
+    "region": "Noreste",
+    "formato": "Digital / Impreso"
+  }
+]
